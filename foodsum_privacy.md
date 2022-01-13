@@ -23,6 +23,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Sentry](https://sentry.io/privacy/)
 *   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 **Log Data**
 
