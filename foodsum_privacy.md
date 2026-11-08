@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: foodsum/privacy/
+redirect_to: https://baselinemacros.app/privacy/
 ---
 
 **Privacy Policy**

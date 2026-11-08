@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: foodsum/terms/
+redirect_to: https://baselinemacros.app/terms/
 ---
 
 **Terms & Conditions**
