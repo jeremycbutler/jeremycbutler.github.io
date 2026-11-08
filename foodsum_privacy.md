@@ -5,67 +5,52 @@ permalink: foodsum/privacy/
 
 **Privacy Policy**
 
-Jeremy Butler built the FoodSum app as a Freemium app. This SERVICE is provided by Jeremy Butler at no cost and is intended for use as is.
+This policy covers Baseline: Calories & Macros, previously called FoodSum, made by Jeremy Butler.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**The short version**
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Baseline 2.0 and later collects no data. It has no account, no analytics, no ads, no tracking and no server. Everything you enter stays on your device.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at FoodSum unless otherwise defined in this Privacy Policy.
+**What the app stores**
 
-**Information Collection and Use**
+Your age, sex, height, weight, body fat, activity level, goal and macro plan are saved on your device so the app can work out your targets. Widgets read the same data on the same device. None of it is sent to me or to anyone else.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+If you delete the app, or tap Start over in Settings, this data is removed.
 
-The app does use third-party services that may collect information used to identify you.
+**Apple Health**
 
-Link to the privacy policy of third-party service providers used by the app
+Connecting Apple Health is optional. If you allow it, Baseline reads your weight, height, body fat, date of birth and biological sex to fill in your details, and, with Baseline Plus, to keep them up to date. Baseline never writes to Apple Health. Health data is read on your device, isn't used for advertising, and never leaves your device.
 
-*   [Sentry](https://sentry.io/privacy/)
-*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+You can turn off access at any time in the Health app or in Settings > Health.
 
-**Log Data**
+**Purchases**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Baseline Plus is a one-time in-app purchase handled by Apple. I don't receive your payment details or your Apple Account information. The app checks your App Store purchase history on your device to unlock Plus, including tips you left in FoodSum.
 
-**Cookies**
+**Feedback emails**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+If you email me from the app, I receive your email address and whatever you write. I only use it to reply to you, and I don't share it.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+**Earlier versions of FoodSum**
 
-**Service Providers**
+FoodSum 1.x, released before Baseline 2.0, used these third-party services:
 
-I may employ third-party companies and individuals due to the following reasons:
+*   [Sentry](https://sentry.io/privacy/), for crash reports
+*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/), for usage analytics
+*   [RevenueCat](https://www.revenuecat.com/privacy), for in-app purchases
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+If you still use FoodSum 1.x, these services may collect device information such as your IP address, device model, operating system version and app usage. Updating to Baseline 2.0 removes them.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+**Children's privacy**
 
-**Security**
+Baseline doesn't collect personal information from anyone, including children under 13.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+**Changes to this policy**
 
-**Links to Other Sites**
+If this policy changes, I'll post the new version on this page.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This policy is effective as of 8 November 2026.
 
-**Children’s Privacy**
+**Contact**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-01-01
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at foodsum@jeremybutler.dev.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have questions about this policy, email me at foodsum@jeremybutler.dev.
